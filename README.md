@@ -1,2 +1,3 @@
 # Hello-world
-just another respository
+hi dear
+I'm tingzai,I like node js and sdfsrzsrfrge.
